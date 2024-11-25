@@ -1,0 +1,9 @@
+############################################################################################################################################################
+
+##To identify the type of OS we can use below command
+
+    uname -a                                            [Display the  system detail including OS]
+    cat /etc/os-release                                 [This will display OS distros]
+    hostnamectl                                         [This will provide information about the system, including the operating system and kernel version.]
+
+#############################################################################################################################################################
