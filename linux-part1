@@ -1,5 +1,6 @@
 ############################################################################################################################################################
 
+
 ##To identify the type of OS we can use below command
 
     uname -a                                            [Display the  system detail including OS]
